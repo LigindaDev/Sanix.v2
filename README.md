@@ -1,7 +1,7 @@
 # Sanix.v2
 Sanix.v2 BETA VERSION 
 <h1 align="center">
-  <img src="сюда вставить ссылку на лого, чере рав/гитхаб и т.д." alt="icon" style="width: 100px; height: 100px"><br>
+  <img src="Logotype.png" alt="icon" style="width: 100px; height: 100px"><br>
   Sanix.v2
 </h1>
 <p align="center">
