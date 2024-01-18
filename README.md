@@ -2,7 +2,7 @@
 Sanix.v2 BETA VERSION 
 <h1 align="center">
   <img src="сюда вставить ссылку на лого, чере рав/гитхаб и т.д." alt="icon" style="width: 100px; height: 100px"><br>
-  AimStar
+  Sanix.v2
 </h1>
 <p align="center">
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/build-C++-blue?style=flat&label=Language&logo=visualstudio&logoColor=%231082c3"></a>
